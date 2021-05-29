@@ -65,7 +65,7 @@ h1 {
 h1 + h2 {
     text-align: center;
     font-size: 31px;
-    margin: 200px auto;
+    margin: 20px auto 200px;
     color:black;
     width: 392px;
 }
@@ -219,8 +219,8 @@ a.vist-link {
     h1 + h2 {
         text-align: center;
         font-size: 18px;
-        margin: 70px auto;
-        color:black;
+        margin: 20px auto 70px;
+        color: black;
         width: 85%;
     }
 
